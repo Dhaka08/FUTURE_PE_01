@@ -1,0 +1,10 @@
+Using the business details provided, generate homepage website copy including:
+
+1. A headline with a clear value proposition
+2. A sub-headline explaining who the business is for and the main benefit
+3. A short introduction section (3–4 lines)
+
+Mention the location naturally.
+Use friendly and welcoming language.
+Ensure the copy feels real, engaging, and suitable for a live cafe website.
+Avoid generic AI phrasing.
