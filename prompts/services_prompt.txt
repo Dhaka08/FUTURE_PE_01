@@ -1,0 +1,11 @@
+Generate services page content for the cafe.
+
+For each service, include:
+- Service name
+- What is included in the service
+- Why customers should choose this service
+
+Use cafe-specific and customer-friendly language.
+Avoid generic descriptions.
+Focus on comfort, quality, and overall experience.
+Ensure the content is suitable for a real cafe website.
